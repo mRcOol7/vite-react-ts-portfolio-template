@@ -35,8 +35,8 @@ A modern, interactive web application built with React, TypeScript, and Three.js
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/FutureFlow.git
-cd FutureFlow
+git clone https://github.com/mRcOol7/vite-react-ts-portfolio-template
+cd vite-react-ts-portfolio-template
 ```
 
 2. Install dependencies:
