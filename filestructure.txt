@@ -1,0 +1,47 @@
+|-- .env
+|-- .eslintrc.json
+|-- .gitignore
+|-- eslint.config.js
+|-- index.html
+|-- package-lock.json
+|-- package.json
+|-- postcss.config.js
+|-- public
+    |-- assets
+        |-- resume.pdf
+    |-- dp1-600x600.jpg
+    |-- logo.jpg
+|-- README.md
+|-- src
+    |-- App.tsx
+    |-- components
+        |-- AboutMe.tsx
+        |-- Breadcrumbs.tsx
+        |-- ContactSection.tsx
+        |-- Footer.tsx
+        |-- FuturisticCard.tsx
+        |-- HeroSection.tsx
+        |-- Navbar.tsx
+        |-- ParticleBackground.tsx
+        |-- Preloader.tsx
+        |-- ProgressiveImage.tsx
+        |-- ProjectsSection.tsx
+        |-- ResumePreview.tsx
+        |-- SkillsSection.tsx
+        |-- ThemeSwitcher.tsx
+        |-- Timeline.tsx
+    |-- context
+        |-- ThemeContext.tsx
+    |-- img
+    |-- index.css
+    |-- lib
+        |-- supabase.ts
+    |-- main.tsx
+    |-- vite-env.d.ts
+|-- supabase
+    |-- migrations
+        |-- 20240101000000_create_contacts_table.sql
+|-- tailwind.config.js
+|-- tsconfig.json
+|-- tsconfig.tsbuildinfo
+|-- vite.config.ts
