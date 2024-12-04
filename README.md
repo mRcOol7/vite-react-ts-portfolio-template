@@ -100,13 +100,5 @@ FutureFlow/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-## 👏 Acknowledgments
-
-- React Team for the amazing framework
-- Three.js community for 3D graphics support
-- Supabase team for the backend infrastructure
-- All other open-source contributors
-
 ---
 
